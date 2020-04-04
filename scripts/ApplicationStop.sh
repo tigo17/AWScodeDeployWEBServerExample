@@ -3,4 +3,4 @@
 
 #sudo service httpd stop
 
-sudo systemctl stop httpd.service
+sudo systemctl stop httpd
